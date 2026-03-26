@@ -58,7 +58,7 @@ O repositório foi reposicionado para um uso seguro e defensivo. Em vez de docum
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/VicFmartins/Ataque-de-Brute-Force-de-Senhas-com-Medusa-e-Kali-Linux.git
+git clone <url-do-repositorio>
 cd Ataque-de-Brute-Force-de-Senhas-com-Medusa-e-Kali-Linux
 ```
 
